@@ -1,0 +1,15 @@
+Timestamp: 2023-10-16 20:19:04, Download: 1.65 Mbps, Upload: 1.04 Mbps
+Timestamp: 2023-10-16 20:19:37, Download: 9.23 Mbps, Upload: 2.70 Mbps
+Timestamp: 2023-10-16 20:20:26, Download: 10.05 Mbps, Upload: 1.65 Mbps
+Error occurred at 2023-10-16 20:22:28: <urlopen error [Errno 11002] getaddrinfo failed>
+Error occurred at 2023-10-16 20:22:35: <urlopen error [Errno 11002] getaddrinfo failed>
+Timestamp: 2023-10-16 21:20:03, Download: 0.10 Mbps, Upload: 0.26 Mbps
+Timestamp: 2023-10-16 21:21:12, Download: 0.59 Mbps, Upload: 0.28 Mbps
+Error occurred at 2023-10-16 21:29:10: <urlopen error [Errno 11002] getaddrinfo failed>
+Timestamp: 2023-10-16 21:30:51, Download: 0.26 Mbps, Upload: 0.76 Mbps
+Timestamp: 2023-10-16 21:32:04, Download: 0.46 Mbps, Upload: 0.00 Mbps
+Error occurred at 2023-10-16 21:32:10: <urlopen error [Errno 11002] getaddrinfo failed>
+Error occurred at 2023-10-16 21:32:15: <urlopen error [Errno 11002] getaddrinfo failed>
+Error occurred at 2023-10-16 21:32:25: <urlopen error [Errno 11002] getaddrinfo failed>
+Error occurred at 2023-10-16 21:32:30: <urlopen error [Errno 11002] getaddrinfo failed>
+Error occurred at 2023-10-16 21:32:47: <urlopen error [Errno 11001] getaddrinfo failed>
